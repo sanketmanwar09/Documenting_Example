@@ -7,6 +7,7 @@
 - [References](refernces)
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data , we seek to identify trend , make data -driven recommendations, and gain a deeper understanding of the company's performance.
 
@@ -69,3 +70,18 @@ Based on the analysis, we recommend the following actions:
  1. LInks
  2. books(SQL FOR BUSINESS BY WERTY)
  3. [Stack Overflow](https://stack.com)
+
+😄
+
+💻
+
+|Heading1|Heading2|
+|--------|--------|
+|Contents|Content2|
+|Python|SQL|
+
+`column_1`
+
+**bold**
+
+*Italic*
